@@ -1,4 +1,4 @@
-// Problem : Count Number Of Odd Digit present in number 
+// Problem_02 : Count Number Of Odd Digit present in number 
 // type : Easy 
 
 class Solution {

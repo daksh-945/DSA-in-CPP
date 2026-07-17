@@ -1,4 +1,4 @@
-// Problem : check the numer is palindrome or not;
+// Problem_04 : check the numer is palindrome or not;
 // type : Easy;
 
 class Solution {

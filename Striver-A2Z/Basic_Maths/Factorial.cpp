@@ -1,4 +1,4 @@
-// Problem : Factorial of a number 
+// Problem_06 : Factorial of a number 
 // type : easy;
 
 
