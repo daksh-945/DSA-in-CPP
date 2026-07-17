@@ -1,5 +1,6 @@
 // downward alphabet Triangle 
 
+
 class Solution {
 public:
     void pattern18(int n) {
