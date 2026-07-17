@@ -1,0 +1,21 @@
+// Sideway Triangle 
+
+class Solution {
+public:
+    void pattern10(int n) {
+        int star = 1;
+        for (int i= 0 ; i < n; i++) {
+            for (int j = 0 ; j < star ; j++) {
+                cout << "*";
+            }
+            star = star + 1;
+            cout << endl;
+        }
+        for (int i = n-1 ; i > 0 ; i--){
+            for (int j= 0 ; j < i ; j++) {
+                cout << "*";
+            }
+            cout << endl;
+        }
+    }
+};
