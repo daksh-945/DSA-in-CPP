@@ -1,4 +1,12 @@
 20 Jul 2026 :
-1 leetcode question 
-3 striver series question 
+
+4 leetcode question 
+7 striver series question 
 recursion theory lecture from striver 
+also try to optimise sime code in leetcode 
+
+21 july 2026 : 
+x Leetcode Questions
+3 Striver series Questions
+Other work :: 
+
