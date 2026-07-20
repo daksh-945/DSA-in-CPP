@@ -1,4 +1,4 @@
-// Problem : Sum of all array elements 
+// Problem_03 : Sum of all array elements 
 // type : easy 
 
 class Solution{	
