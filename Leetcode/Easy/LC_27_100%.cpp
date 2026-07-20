@@ -1,5 +1,6 @@
 // Leetcode_27 : Remove Element from an array with there index also 
 // beats 100%;
+// link : https://leetcode.com/problems/remove-element/
 
 class Solution {
 public:

@@ -1,5 +1,6 @@
 // Leetcode_26: Removes duplicates from sorted array 
 // 100% beats 
+// link : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 class Solution {
 public:

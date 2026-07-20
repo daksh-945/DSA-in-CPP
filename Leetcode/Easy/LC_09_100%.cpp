@@ -1,4 +1,6 @@
 // Problem_09 : Palindrome Number
+// link : https://leetcode.com/problems/palindrome-number/
+// beats : 100%
 
 class Solution {
 public:

@@ -1,4 +1,6 @@
 // Leetcode_66 : Plus one to each diogit of array ;
+// link : https://leetcode.com/problems/plus-one/
+// beats : 100%
 
 
 class Solution {

@@ -1,4 +1,5 @@
 // Leetcode_3658 : gcd of odd and even sums 
+// link : https://leetcode.com/problems/gcd-of-odd-and-even-sums/
 // beats : 100%;
 
 

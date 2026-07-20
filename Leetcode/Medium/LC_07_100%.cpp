@@ -1,4 +1,6 @@
 // Leetcode_07 : Reverse integer 
+// link : https://leetcode.com/problems/reverse-integer/
+// beats : 100%
 class Solution {
 public:
     int reverse(int x) {

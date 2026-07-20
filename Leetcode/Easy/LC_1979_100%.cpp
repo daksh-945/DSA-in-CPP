@@ -1,4 +1,7 @@
 // Leetcode_1979: Find Greatest Common Divsior Of Array;
+// link : https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+// beats: 100%
+
 
 class Solution {
 public:

@@ -1,4 +1,6 @@
-// Problem_1390 : Four Divisors 
+// Problem_1390 : Four Divisors
+// link : https://leetcode.com/problems/four-divisors/ 
+// beats : 19%
 
 
 class Solution {

@@ -1,4 +1,5 @@
 // Leetcode_485 : Max consecutive one's
+// link : https://leetcode.com/problems/max-consecutive-ones/
 // beats : 100%;
 
 class Solution {

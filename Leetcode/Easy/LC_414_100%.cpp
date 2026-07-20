@@ -1,5 +1,5 @@
-Leetcode_414 : Third Maximum Number from array;
-beats : 100%
+// Leetcode_414 : Third Maximum Number from array;
+// beats : 100%
 
 class Solution {
 public:

@@ -1,4 +1,6 @@
 // Problem_35: Search Insert Position 
+// link : https://leetcode.com/problems/search-insert-position/
+// beats : 100%
 
 class Solution {
     // binary search se karna hai na ki linear serch se keep in your mind time complexity log N 

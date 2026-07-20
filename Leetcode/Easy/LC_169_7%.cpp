@@ -1,6 +1,6 @@
 // Leetcode_169: find Majority element in array in sense of frequency 
 // beats : 7%
-
+// link : https://leetcode.com/problems/majority-element/
 // cant use hash because negative nubers also there 
 
 class Solution {
