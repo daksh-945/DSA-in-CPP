@@ -1,4 +1,4 @@
-// Longest common prefix in an string such that after breaking does goes furthur
+// Problem_04 : Longest common prefix in an string such that after breaking does goes furthur
 // type : easy/
 
 
