@@ -17,7 +17,7 @@ class Solution{
             for (int i =0 ;i < n2 ; i++) {
                 hash[t[i]]++;
             }
-            int k =0;
+            // int k =0;
             for (int i=0 ; i < n1; i++) {
                 // if (k == n1-1) {
                 //     break;

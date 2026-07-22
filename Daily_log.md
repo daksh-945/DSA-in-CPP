@@ -6,7 +6,7 @@ recursion theory lecture from striver
 also try to optimise sime code in leetcode 
 
 21 july 2026 : 
-1 Leetcode Questions
-4 Striver series Questions
+3 Leetcode Questions
+5 Striver series Questions
 Other work :: 
 
