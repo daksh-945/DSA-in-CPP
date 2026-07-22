@@ -10,3 +10,6 @@ also try to optimise sime code in leetcode
 5 Striver series Questions
 Other work :: 
 
+22 huly 2026 :
+2 leetcode questions 
+<!-- i was distracted on this day  -->
