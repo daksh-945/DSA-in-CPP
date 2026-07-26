@@ -1,10 +1,6 @@
 // Problem : Find all the missing number form 0 to n ;
 // type : easy 
-
 // code :
-
-// l.c = 26
-
 // l.c = 268
 
 class Solution {

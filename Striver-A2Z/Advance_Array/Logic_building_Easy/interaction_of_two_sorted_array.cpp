@@ -1,8 +1,6 @@
 // problem: interaction of two sorted array 
 // type : easy /
-
 code :
-
 // l.c = 350
 
 class Solution {
